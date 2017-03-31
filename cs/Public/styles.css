@@ -1,0 +1,11 @@
+.demo-text, .magic-form {
+   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+   font-weight: 300;
+}
+
+button {
+  border: 1px solid #333;
+  background-color: #ddd;
+  padding: 5px;
+  margin: 10px;
+}
